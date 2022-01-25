@@ -35,27 +35,27 @@ https://livecameras.gr:30443/live/ithak1/chunks.m3u8
 https://livecameras.gr:30443/live/ithak2/chunks.m3u8
 #EXTINF:-1 group-title="ΙΟΝΙΑ ΝΗΣΙΑ",Ιθάκη Πλαστρειθίας
 https://livecameras.gr:30443/live/ithak5/chunks.m3u8
-#EXTINF:-1 group-title="ΝΟΤΙΟ ΑΙΓΑΙΟ",Αστυπάλαια
+#EXTINF:-1 group-title="ΔΩΔΕΚΑΝΗΣΑ",Αστυπάλαια
 https://s61.ipcamlive.com/streams/3dfl9uutx8y5aqsqb/stream.m3u8
-#EXTINF:-1 group-title="ΝΟΤΙΟ ΑΙΓΑΙΟ",Κως
+#EXTINF:-1 group-title="ΔΩΔΕΚΑΝΗΣΑ",Κως
 https://www.youtube.com/watch?v=bwz3OTNKKeo
-#EXTINF:-1 group-title="ΝΟΤΙΟ ΑΙΓΑΙΟ",Νίσυρος
+#EXTINF:-1 group-title="ΔΩΔΕΚΑΝΗΣΑ",Νίσυρος
 https://i.pinimg.com/originals/53/58/ba/5358ba2d13ff601c47e2f07126d5eeb8.jpg
-#EXTINF:-1 group-title="ΝΟΤΙΟ ΑΙΓΑΙΟ",Ρόδος Electra Palace
+#EXTINF:-1 group-title="ΔΩΔΕΚΑΝΗΣΑ",Ρόδος Electra Palace
 https://i.pinimg.com/originals/53/58/ba/5358ba2d13ff601c47e2f07126d5eeb8.jpg
-#EXTINF:-1 group-title="ΝΟΤΙΟ ΑΙΓΑΙΟ",Ρόδος Νέα Μαρίνα
+#EXTINF:-1 group-title="ΔΩΔΕΚΑΝΗΣΑ",Ρόδος Νέα Μαρίνα
 https://i.pinimg.com/originals/53/58/ba/5358ba2d13ff601c47e2f07126d5eeb8.jpg
-#EXTINF:-1 group-title="ΝΟΤΙΟ ΑΙΓΑΙΟ",Ρόδος Elysium
+#EXTINF:-1 group-title="ΔΩΔΕΚΑΝΗΣΑ",Ρόδος Elysium
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//localhost%3a88/https%3a//www.youtube.com/watch?v=V513W2TVk50
-#EXTINF:-1 group-title="ΝΟΤΙΟ ΑΙΓΑΙΟ",Ρόδος Rodos Paladium
+#EXTINF:-1 group-title="ΔΩΔΕΚΑΝΗΣΑ",Ρόδος Rodos Paladium
 http://localhost:88/https://www.youtube.com/watch?v=drhmo4XSVYA
-#EXTINF:-1 group-title="ΝΟΤΙΟ ΑΙΓΑΙΟ",Ρόδος Λιμάνι
+#EXTINF:-1 group-title="ΔΩΔΕΚΑΝΗΣΑ",Ρόδος Λιμάνι
 https://i.pinimg.com/originals/53/58/ba/5358ba2d13ff601c47e2f07126d5eeb8.jpg
-#EXTINF:-1 group-title="ΝΟΤΙΟ ΑΙΓΑΙΟ",Ρόδος Πεύκοι
+#EXTINF:-1 group-title="ΔΩΔΕΚΑΝΗΣΑ",Ρόδος Πεύκοι
 https://s61.ipcamlive.com/streams/3djszbsnzut8pvyh1/stream.m3u8
-#EXTINF:-1 group-title="ΝΟΤΙΟ ΑΙΓΑΙΟ",Ρόδος Χαράκι
+#EXTINF:-1 group-title="ΔΩΔΕΚΑΝΗΣΑ",Ρόδος Χαράκι
 https://5a1178b42cc03.streamlock.net/Harakicam/Harakicam.stream/chunklist_w1922396526.m3u8
-#EXTINF:-1 group-title="ΝΟΤΙΟ ΑΙΓΑΙΟ",Ρόδος Ψαροπούλα
+#EXTINF:-1 group-title="ΔΩΔΕΚΑΝΗΣΑ",Ρόδος Ψαροπούλα
 http://s61.ipcamlive.com/streams/3dfl9uutx8y5aqsqb/stream.m3u8
 #EXTINF:-1 group-title="ΠΕΛΟΠΟΝΗΣΣΟΣ",Καλαμάτα Καλάθι
 http://livecameras.gr:8081/live/kala1/chunks.m3u8
