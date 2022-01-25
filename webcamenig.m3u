@@ -38,15 +38,15 @@ https://livecameras.gr:30443/live/ithak5/chunks.m3u8
 #EXTINF:-1 group-title="ΔΩΔΕΚΑΝΗΣΑ",Αστυπάλαια
 https://s61.ipcamlive.com/streams/3dfl9uutx8y5aqsqb/stream.m3u8
 #EXTINF:-1 group-title="ΔΩΔΕΚΑΝΗΣΑ",Κως
-https://www.youtube.com/watch?v=bwz3OTNKKeo
+http://localhost:88/https://www.youtube.com/watch?v=bwz3OTNKKeo
 #EXTINF:-1 group-title="ΔΩΔΕΚΑΝΗΣΑ",Νίσυρος
 https://i.pinimg.com/originals/53/58/ba/5358ba2d13ff601c47e2f07126d5eeb8.jpg
 #EXTINF:-1 group-title="ΔΩΔΕΚΑΝΗΣΑ",Ρόδος Electra Palace
 https://i.pinimg.com/originals/53/58/ba/5358ba2d13ff601c47e2f07126d5eeb8.jpg
 #EXTINF:-1 group-title="ΔΩΔΕΚΑΝΗΣΑ",Ρόδος Νέα Μαρίνα
-https://i.pinimg.com/originals/53/58/ba/5358ba2d13ff601c47e2f07126d5eeb8.jpg
+https://s17.ipcamlive.com/streams/115usfmxrqz39nwcj/stream.m3u8
 #EXTINF:-1 group-title="ΔΩΔΕΚΑΝΗΣΑ",Ρόδος Elysium
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//localhost%3a88/https%3a//www.youtube.com/watch?v=V513W2TVk50
+http://localhost:88/https://www.youtube.com/watch?v=V513W2TVk50
 #EXTINF:-1 group-title="ΔΩΔΕΚΑΝΗΣΑ",Ρόδος Rodos Paladium
 http://localhost:88/https://www.youtube.com/watch?v=drhmo4XSVYA
 #EXTINF:-1 group-title="ΔΩΔΕΚΑΝΗΣΑ",Ρόδος Λιμάνι
