@@ -47,18 +47,20 @@ http://localhost:88/https://www.youtube.com/watch?v=CcnlJI_UXyM
 http://localhost:88/https://www.youtube.com/watch?v=J0-Hr_1KdDE
 #EXTINF:-1 group-title="ΔΩΔΕΚΑΝΗΣΑ",Κως
 http://localhost:88/https://www.youtube.com/watch?v=OJbDXnoQzjA
+#EXTINF:-1 group-title="ΔΩΔΕΚΑΝΗΣΑ",Λιμάνι
+https://pluto13.cybex.gr/hls/mc143cx869616.m3u8
 #EXTINF:-1 group-title="ΔΩΔΕΚΑΝΗΣΑ",Ρόδος Νέα Μαρίνα
-https://s74.ipcamlive.com/streams/4aeh6grh2tacxzk3z/stream.m3u8
+https://s68.ipcamlive.com/streams/44cdjliqry30ajvwi/stream.m3u8
 #EXTINF:-1 group-title="ΔΩΔΕΚΑΝΗΣΑ",Ρόδος Elysium
 http://localhost:88/https://www.youtube.com/watch?v=V513W2TVk50
 #EXTINF:-1 group-title="ΔΩΔΕΚΑΝΗΣΑ",Ρόδος Rodos Paladium
 http://localhost:88/https://www.youtube.com/watch?v=drhmo4XSVYA
 #EXTINF:-1 group-title="ΔΩΔΕΚΑΝΗΣΑ",Ρόδος Πεύκοι
-https://s61.ipcamlive.com/streams/3djszbsnzut8pvyh1/stream.m3u8
+https://s3.ipcamlive.com/streams/03uc4lo5t8qsizhup/stream.m3u8
 #EXTINF:-1 group-title="ΔΩΔΕΚΑΝΗΣΑ",Ρόδος Χαράκι
 https://s76.ipcamlive.com/streams/4clabshpitvj6eht3/stream.m3u8
 #EXTINF:-1 group-title="ΔΩΔΕΚΑΝΗΣΑ",Ρόδος Ψαροπούλα
-http://s61.ipcamlive.com/streams/3dvec7jjviughkpgx/stream.m3u8
+http://s61.ipcamlive.com/streams/3dbn2qltuujjta6ny/stream.m3u8
 #EXTINF:-1 group-title="ΠΕΛΟΠΟΝΗΣΣΟΣ",Καλαμάτα Καλάθι
 http://livecameras.gr:8081/live/kala1/chunks.m3u8
 #EXTINF:-1 group-title="ΠΕΛΟΠΟΝΗΣΣΟΣ",Καστελόκαμπος Ρίο Πατρών1
