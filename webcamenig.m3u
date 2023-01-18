@@ -47,10 +47,10 @@ http://localhost:88/https://www.youtube.com/watch?v=CcnlJI_UXyM
 http://localhost:88/https://www.youtube.com/watch?v=J0-Hr_1KdDE
 #EXTINF:-1 group-title="ΔΩΔΕΚΑΝΗΣΑ",Κως
 http://localhost:88/https://www.youtube.com/watch?v=OJbDXnoQzjA
-#EXTINF:-1 group-title="ΔΩΔΕΚΑΝΗΣΑ",Λιμάνι
+#EXTINF:-1 group-title="ΔΩΔΕΚΑΝΗΣΑ",Ρόδος Λιμάνι
 https://pluto13.cybex.gr/hls/mc143cx869616.m3u8
 #EXTINF:-1 group-title="ΔΩΔΕΚΑΝΗΣΑ",Ρόδος Νέα Μαρίνα
-https://s68.ipcamlive.com/streams/44cdjliqry30ajvwi/stream.m3u8
+https://s68.ipcamlive.com/streams/44fajerglo94dwdwc/stream.m3u8
 #EXTINF:-1 group-title="ΔΩΔΕΚΑΝΗΣΑ",Ρόδος Elysium
 http://localhost:88/https://www.youtube.com/watch?v=V513W2TVk50
 #EXTINF:-1 group-title="ΔΩΔΕΚΑΝΗΣΑ",Ρόδος Rodos Paladium
