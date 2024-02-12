@@ -69,6 +69,8 @@ http://localhost:88/https://www.youtube.com/watch?v=vYd5nOYwatY
 http://localhost:88/https://www.youtube.com/watch?v=VzrniPFFanA
 #EXTINF:-1 group-title="ΔΩΔΕΚΑΝΗΣΑ",Ρόδος Λιμάνι
 https://pluto13.cybex.gr/hls/mc143cx869616.m3u8
+#EXTINF:-1 group-title="ΔΩΔΕΚΑΝΗΣΑ",Ρόδος Δημαρχείο
+https://hd-auth.skylinewebcams.com/live.m3u8?a=ce4bdpet668gtsh31haothqg60
 #EXTINF:-1 group-title="ΔΩΔΕΚΑΝΗΣΑ",Ρόδος Νέα Μαρίνα
 https://s25.ipcamlive.com/streams/19qhkgufi7cl5res3/stream.m3u8
 #EXTINF:-1 group-title="ΔΩΔΕΚΑΝΗΣΑ",Ρόδος Elysium
