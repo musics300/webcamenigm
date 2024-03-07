@@ -53,7 +53,7 @@ http://localhost:88/https://www.youtube.com/watch?v=TxohVBPvt9c
 http://localhost:88/https://www.youtube.com/watch?v=WXn4dxTjSEs
 #EXTINF:-1 group-title="ΔΩΔΕΚΑΝΗΣΑ",Ρόδος ΕΝΥΔΡΕΙΟ2
 http://localhost:88/https://www.youtube.com/watch?v=iKdqRI9ljhg
-#EXTINF:-1 group-title="ΔΩΔΕΚΑΝΗΣΑ",Ρόδος ΕΛΛΗ
+#EXTINF:-1 group-title="ΔΩΔΕΚΑΝΗΣΑ",Ρόδος ΚΑΖΙΝΟ
 http://localhost:88/https://www.youtube.com/watch?v=lwOkHeH28BA
 #EXTINF:-1 group-title="ΔΩΔΕΚΑΝΗΣΑ",Ρόδος ΝΟΡ
 http://localhost:88/https://www.youtube.com/watch?v=G7ODqfCsNxc
@@ -80,7 +80,7 @@ https://s61.ipcamlive.com/streams/3dxtyfofhq0onwzg4/stream.m3u8
 #EXTINF:-1 group-title="ΔΩΔΕΚΑΝΗΣΑ",Ρόδος Χαράκι
 https://5a1178b42cc03.streamlock.net/Haraki_Rhodes/HarakiRhodes.stream/chunklist_w141107919.m3u8
 #EXTINF:-1 group-title="ΔΩΔΕΚΑΝΗΣΑ",Ρόδος Ψαροπούλα
-https://s61.ipcamlive.com/streams/3dgv9v5lmsnzxlkni/stream.m3u8
+https://s61.ipcamlive.com/streams/3d5pyuzdpusj6ocwn/stream.m3u8
 #EXTINF:-1 group-title="ΠΕΛΟΠΟΝΗΣΣΟΣ",Καλαμάτα Καλάθι
 http://livecameras.gr:8081/live/kala1/chunks.m3u8
 #EXTINF:-1 group-title="ΠΕΛΟΠΟΝΗΣΣΟΣ",Καστελόκαμπος Ρίο Πατρών1
