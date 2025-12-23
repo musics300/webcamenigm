@@ -53,24 +53,18 @@ http://localhost:88/https://www.youtube.com/watch?v=Gzl2M_eGpfM
 http://localhost:88/https://www.youtube.com/watch?v=5bd5kn_Anz0
 #EXTINF:-1 group-title="ΔΩΔΕΚΑΝΗΣΑ",Ρόδος ΕΝΥΔΡΕΙΟ2
 http://localhost:88/https://www.youtube.com/watch?v=k8ZgLw6kBCA
-#EXTINF:-1 group-title="ΔΩΔΕΚΑΝΗΣΑ",Ρόδος ΘΟΛΟΣ WINDSURF
-https://restreamer.lefiasco.de/memfs/dc9af6cc-83d0-4f55-9243-2bb6937e8bf8_output_0.m3u8
 #EXTINF:-1 group-title="ΔΩΔΕΚΑΝΗΣΑ",Ρόδος ΙΞΙΑ ΗΛΙΑΔΩΝ
 http://localhost:88/https://www.youtube.com/watch?v=h8ZGGzCcL5g
 #EXTINF:-1 group-title="ΔΩΔΕΚΑΝΗΣΑ",Ρόδος Τουριστικό Λιμάνι
 https://pluto13.cybex.gr/hls/mc143cx869616.m3u8
-#EXTINF:-1 group-title="ΔΩΔΕΚΑΝΗΣΑ",Ρόδος Νέα Μαρίνα
-https://s55.ipcamlive.com/streams/377ziilmjgapbk6t8/stream.m3u8
 #EXTINF:-1 group-title="ΔΩΔΕΚΑΝΗΣΑ",Ρόδος Elysium
 http://localhost:88/https://www.youtube.com/watch?v=V513W2TVk50
 #EXTINF:-1 group-title="ΔΩΔΕΚΑΝΗΣΑ",Ρόδος Rodos Paladium
 http://localhost:88/https://www.youtube.com/watch?v=drhmo4XSVYA
-#EXTINF:-1 group-title="ΔΩΔΕΚΑΝΗΣΑ",Ρόδος Πεύκοι
-https://s21.ipcamlive.com/streams/15akbv9o1nuvekrls/stream.m3u8
 #EXTINF:-1 group-title="ΔΩΔΕΚΑΝΗΣΑ",Ρόδος Χαράκι
-https://5a1178b42cc03.streamlock.net/Haraki_Rhodes/HarakiRhodes.stream/chunklist_w149684260.m3u8
+https://5a1178b42cc03.streamlock.net/Haraki_Rhodes/HarakiRhodes.stream/chunklist_w944029804.m3u8
 #EXTINF:-1 group-title="ΔΩΔΕΚΑΝΗΣΑ",Ρόδος Ψαροπούλα
-https://s29.ipcamlive.com/streams/1dk4mrqdpak5yolnj/stream.m3u8
+https://s91.ipcamlive.com/streams/5b8bqid1c6x5yyez2/stream.m3u8
 #EXTINF:-1 group-title="ΠΕΛΟΠΟΝΗΣΣΟΣ",Καλαμάτα Καλάθι
 http://livecameras.gr:8081/live/kala1/chunks.m3u8
 #EXTINF:-1 group-title="ΠΕΛΟΠΟΝΗΣΣΟΣ",Καστελόκαμπος Ρίο Πατρών1
@@ -85,4 +79,5 @@ http://livecameras.gr:8081/live/trip1/chunks.m3u8
 http://livecameras.gr:8081/live/leva2/chunks.m3u8
 #EXTINF:-1 group-title="ΣΤΕΡΕΑ ΕΛΛΑΔΑ",Λιβαδειά 4
 http://livecameras.gr:8081/live/leva4/chunks.m3u8
+
 
