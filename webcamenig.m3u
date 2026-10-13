@@ -46,25 +46,21 @@ https://livecameras.gr:30443/live/ithak5/chunks.m3u8
 #EXTINF:-1 group-title="ΙΟΝΙΑ ΝΗΣΙΑ",Κέρκυρα
 http://localhost:88/https://www.youtube.com/watch?v=CcnlJI_UXyM
 #EXTINF:-1 group-title="ΚΥΚΛΑΔΕΣ",Τήνος
-http://localhost:88/https://www.youtube.com/watch?v=Xxp31PWorTQ
-#EXTINF:-1 group-title="ΔΩΔΕΚΑΝΗΣΑ",Κως 1
-http://localhost:88/https://www.youtube.com/watch?v=Gzl2M_eGpfM
+http://localhost:88/https://www.youtube.com/watch?v=3WBEQrk20Ro
 #EXTINF:-1 group-title="ΔΩΔΕΚΑΝΗΣΑ",Ρόδος ΕΝΥΔΡΕΙΟ1
-http://localhost:88/https://www.youtube.com/watch?v=5bd5kn_Anz0
-#EXTINF:-1 group-title="ΔΩΔΕΚΑΝΗΣΑ",Ρόδος ΕΝΥΔΡΕΙΟ2
 http://localhost:88/https://www.youtube.com/watch?v=k8ZgLw6kBCA
+#EXTINF:-1 group-title="ΔΩΔΕΚΑΝΗΣΑ",Ρόδος ΕΝΥΔΡΕΙΟ2
+http://localhost:88/https://www.youtube.com/watch?v=5bd5kn_Anz0
 #EXTINF:-1 group-title="ΔΩΔΕΚΑΝΗΣΑ",Ρόδος ΙΞΙΑ ΗΛΙΑΔΩΝ
 http://localhost:88/https://www.youtube.com/watch?v=h8ZGGzCcL5g
 #EXTINF:-1 group-title="ΔΩΔΕΚΑΝΗΣΑ",Ρόδος Τουριστικό Λιμάνι
 https://pluto13.cybex.gr/hls/mc143cx869616.m3u8
 #EXTINF:-1 group-title="ΔΩΔΕΚΑΝΗΣΑ",Ρόδος Elysium
-http://localhost:88/https://www.youtube.com/watch?v=V513W2TVk50
+http://localhost:88/https://www.youtube.com/watch?v=kOzNBWZlfHk
 #EXTINF:-1 group-title="ΔΩΔΕΚΑΝΗΣΑ",Ρόδος Rodos Paladium
-http://localhost:88/https://www.youtube.com/watch?v=drhmo4XSVYA
+http://localhost:88/https://www.youtube.com/watch?v=kpyEOpLmXUk
 #EXTINF:-1 group-title="ΔΩΔΕΚΑΝΗΣΑ",Ρόδος Χαράκι
-https://5a1178b42cc03.streamlock.net/Haraki_Rhodes/HarakiRhodes.stream/chunklist_w944029804.m3u8
-#EXTINF:-1 group-title="ΔΩΔΕΚΑΝΗΣΑ",Ρόδος Ψαροπούλα
-https://s91.ipcamlive.com/streams/5b8bqid1c6x5yyez2/stream.m3u8
+http://localhost:88/https://www.youtube.com/watch?v=4mrlfsJ_CRU
 #EXTINF:-1 group-title="ΠΕΛΟΠΟΝΗΣΣΟΣ",Καλαμάτα Καλάθι
 http://livecameras.gr:8081/live/kala1/chunks.m3u8
 #EXTINF:-1 group-title="ΠΕΛΟΠΟΝΗΣΣΟΣ",Καστελόκαμπος Ρίο Πατρών1
