@@ -53,6 +53,8 @@ http://localhost:88/https://www.youtube.com/watch?v=k8ZgLw6kBCA
 http://localhost:88/https://www.youtube.com/watch?v=5bd5kn_Anz0
 #EXTINF:-1 group-title="ΔΩΔΕΚΑΝΗΣΑ",Ρόδος ΙΞΙΑ ΗΛΙΑΔΩΝ
 http://localhost:88/https://www.youtube.com/watch?v=h8ZGGzCcL5g
+#EXTINF:-1 group-title="ΔΩΔΕΚΑΝΗΣΑ",Ρόδος ΠΕΥΚΟΙ
+https://s58.ipcamlive.com/streams/3afxq92pg08efmtrz/stream.m3u8
 #EXTINF:-1 group-title="ΔΩΔΕΚΑΝΗΣΑ",Ρόδος Τουριστικό Λιμάνι
 https://pluto13.cybex.gr/hls/mc143cx869616.m3u8
 #EXTINF:-1 group-title="ΔΩΔΕΚΑΝΗΣΑ",Ρόδος Elysium
